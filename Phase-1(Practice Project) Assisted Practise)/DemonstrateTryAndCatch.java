@@ -1,4 +1,4 @@
-package phase1.project.Lesson12;
+package MultiThreading;
 
 public class DemonstrateTryAndCatch {
 
